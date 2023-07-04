@@ -1,1 +1,6 @@
-
+A responsive Personal Portfolio Website built using 3D graphics libraries such as threeJS, React three fiber and framer motion.
+Three.js is a popular JavaScript library used for creating and displaying interactive 3D graphics in web browsers. It provides a comprehensive set of tools and features for building 3D applications, games, visualizations, and more.
+React Three Fiber (RTF) is a library that brings the power of Three.js into the React ecosystem. It is built on top of Three.js and provides a declarative way to create and manipulate 3D scenes using React components and hooks.
+Framer Motion is an animation library for React that enables developers to create fluid and interactive motion effects for their web applications. It offers a simple and intuitive API for defining animations and transitions, making it easier to bring elements to life and create engaging user experiences.
+with this Email js is also used, that allows you to send emails directly from your client-side code, without the need for a server-side implementation. It provides a simple and convenient way to integrate email functionality into your web applications.
+The website is built using captivating 3D models that are fully customizable and provides smooth and seamless animations to users. It uses 3D graphics and animations to bring content to life.
